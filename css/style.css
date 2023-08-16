@@ -54,7 +54,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header_logo {
-	font-size: 900px;
+	font-size: 100px;
+	font-weight: 700px;
 	text-shadow: 1px 2px 2px #FF2A00;
 	text-shadow: 1px 2px 2px #FF2A00;
 	box-shadow: 2px 2px 7px 1px #FF2A00;
