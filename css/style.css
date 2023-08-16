@@ -10,7 +10,7 @@
 <!-- *:after -->
 <!-- box-sizing - дозволяє змінити алгоритм розрахунку розмірів  блоку -->
 <!-- border-box - рамка меж -->
-<!--  -->
+<!-- container - , width - вид, max-width - максимум, margin - вирівнюємо по центру -->
 <!--  -->
 <!--  -->
 <!--  -->
@@ -31,4 +31,10 @@ body {
 *:before,
 *:after {
 	box-sizing: border-box;
+}
+
+.container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
 }
